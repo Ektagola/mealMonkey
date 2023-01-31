@@ -62,7 +62,7 @@ const Banner = () => {
           </HStack>
         </Stack>
         <Stack rounded={"full"}>
-          <Image src="banner.png" />
+          <Image src="banner.png" alt="women eating delicious donut"/>
         </Stack>
         <Stack maxW={"300px"} fontFamily={"DM Serif Display"}>
           <VStack>

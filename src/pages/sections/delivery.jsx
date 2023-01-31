@@ -39,8 +39,8 @@ const Delivery = () => {
             </Text>
           </Stack>
           <Stack>
-            <Image src="logo.png" width={"400px"} />
-            <Image src="center.png" width={"400px"} />
+            <Image src="logo.png" width={"400px"} alt="Meal Monkey Logo"/>
+            <Image src="center.png" width={"400px"} alt="Meal Monkey with pizza"/>
           </Stack>
           <Stack>
             <HStack pt={10}>

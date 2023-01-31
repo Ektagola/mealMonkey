@@ -42,7 +42,7 @@ const Categories = () => {
         alignItems={'center'}
       >
         <Stack>
-          <Image src="1.png" width="250px" />
+          <Image src="1.png" width="250px" alt="Masala Chicken with some salad and delicious topping"/>
           <chakra.h3 fontWeight="bold" fontSize={"18px"}>
             Masala Chicken
           </chakra.h3>
@@ -51,7 +51,7 @@ const Categories = () => {
           </Link>
         </Stack>
         <Stack>
-          <Image src="2.png" width="250px" />
+          <Image src="2.png" width="250px" alt="There is some soft beverages, This gives instant freshness"/>
           <chakra.h3 fontWeight="bold" fontSize={"18px"}>
             Soft Beverages
           </chakra.h3>
@@ -60,7 +60,7 @@ const Categories = () => {
           </Link>
         </Stack>
         <Stack>
-          <Image src="3.png" width="250px" />
+          <Image src="3.png" width="250px" alt="Baked french fries"/>
           <chakra.h3 fontWeight="bold" fontSize={"18px"}>
             French Fries
           </chakra.h3>

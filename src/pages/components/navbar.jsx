@@ -48,7 +48,7 @@ const Navbar = () => {
           onClick={isOpen ? onClose : onOpen}
         />
         <HStack spacing={8} alignItems={"center"}>
-          <Image src="logo.png" width="80px" />
+          <Image src="logo.png" width="80px" alt="Meal Monkey logo"/>
           <HStack as={"nav"} spacing={4} display={{ base: "none", md: "flex" }}>
             {Links.map((links) => (
               <Link
